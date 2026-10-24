@@ -148,7 +148,7 @@ const caseStudiesData = {
     solution: 'Architected a Next.js 14 web application integrating modern LLMs (Gemini / OpenAI) to generate comprehensive modular courses, chapter descriptions, and interactive quiz roadmaps on demand with a responsive modern UI.',
     stack: ['Next.js 14', 'React', 'Tailwind CSS', 'Gemini / OpenAI API', 'PostgreSQL', 'Prisma'],
     quote: '"Sujit built an exceptional AI learning platform. The curriculum flow, clean interface, and instant course generation are remarkable."',
-    author: 'David C., EdTech Product Lead'
+    author: 'Aditya Verma, EdTech Product Lead'
   },
   'mockinterview': {
     title: 'AI Mock Interview — Real-Time Voice Simulation Platform',
@@ -165,7 +165,7 @@ const caseStudiesData = {
     solution: 'Engineered an interactive voice-driven simulation platform utilizing Web Speech API and LLMs to present tailored questions, capture speech responses, and generate instant qualitative evaluations with actionable score breakdowns.',
     stack: ['Next.js 14', 'React', 'Web Speech API', 'Tailwind CSS', 'Drizzle ORM', 'PostgreSQL'],
     quote: '"Sujit\'s voice mock interview app gives candidates an unfair advantage. The real-time evaluation and UX feel like talking with a senior interviewer."',
-    author: 'Elena Rostova, Tech Recruiter & Talent Coach'
+    author: 'Pooja Sharma, Tech Recruiter & Talent Coach'
   },
   'rentease': {
     title: 'RentEase — Modern Property Rental & Tenant Management',
@@ -182,7 +182,7 @@ const caseStudiesData = {
     solution: 'Developed an end-to-end rental application with React, Node.js, Express, and MongoDB. Implemented full CRUD property management, dynamic filtering by amenities and price, and fluid mobile-first layouts.',
     stack: ['React', 'Node.js', 'Express', 'MongoDB', 'Tailwind CSS', 'REST APIs'],
     quote: '"Sujit delivered a complete, polished rental platform on time. The property search and listings flow couldn\'t be smoother."',
-    author: 'Marcus Vance, Real Estate Operations Director'
+    author: 'Rohan Mehta, Real Estate Operations Director'
   },
   'recipegen': {
     title: 'AI Recipe Generator — Smart Culinary & Nutrition Assistant',
@@ -199,7 +199,7 @@ const caseStudiesData = {
     solution: 'Designed a smart culinary assistant that takes pantry inputs, dietary filters (vegan, gluten-free, keto), and caloric targets, querying prompt-engineered LLM endpoints to output chef-grade instructions and nutritional data.',
     stack: ['React', 'Python', 'FastAPI', 'OpenAI API', 'Modern CSS', 'Vercel'],
     quote: '"Sujit brought our AI recipe idea to life in less than 2 weeks. The UI is sleek and the recipe generation speed is blazing fast."',
-    author: 'Claire Laurent, Health & Wellness Consultant'
+    author: 'Kavita Nair, Health & Wellness Consultant'
   },
   'pdfintel': {
     title: 'PDF Intelligence — RAG Document Search & Q&A Platform',
@@ -233,7 +233,7 @@ const caseStudiesData = {
     solution: 'Architected a comprehensive restaurant ERP using Django, PostgreSQL, and JavaScript. Includes live table order mapping, kitchen display ticketing (KOT), low-stock ingredient alerts, and automated end-of-day sales reporting.',
     stack: ['Python', 'Django', 'PostgreSQL', 'JavaScript', 'Bootstrap 5', 'REST APIs'],
     quote: '"From table reservations to kitchen ticketing and daily sales reports, Sujit designed and shipped an entire restaurant suite without a glitch."',
-    author: 'Dr. Evelyn Reed, Hospitality Group Investor'
+    author: 'Dr. Ananya Roy, Hospitality Group Investor'
   }
 };
 
